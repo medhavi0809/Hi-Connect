@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-calendar-events:2.0.0-jitsi-7615361@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/26fbcdd977bb380336ee6fa93c5e3ea5/react-native-calendar-events-2.0.0-jitsi-7615361/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2124a468f1a294183f04594a706a7e9/react-native-calendar-events-2.0.0-jitsi-7615361/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2124a468f1a294183f04594a706a7e9/react-native-calendar-events-2.0.0-jitsi-7615361/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2124a468f1a294183f04594a706a7e9/react-native-calendar-events-2.0.0-jitsi-7615361/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-calendar-events/2.0.0-jitsi-7615361/d6db9ec8abd3e7fbadc05680f3f84758fd33552d/react-native-calendar-events-2.0.0-jitsi-7615361-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

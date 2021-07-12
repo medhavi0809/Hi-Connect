@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-sound:0.11.0-jitsi-7615361@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b4084e4f3e3c34432e168cb04400bfd/react-native-sound-0.11.0-jitsi-7615361/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ced7c093cd94763910cc0c0013cbd280/react-native-sound-0.11.0-jitsi-7615361/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ced7c093cd94763910cc0c0013cbd280/react-native-sound-0.11.0-jitsi-7615361/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ced7c093cd94763910cc0c0013cbd280/react-native-sound-0.11.0-jitsi-7615361/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-sound/0.11.0-jitsi-7615361/a8668291f5defc68d8c07b6bb6d8a7dead8126cd/react-native-sound-0.11.0-jitsi-7615361-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
