@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "136041141484",
+    "project_id": "video-app-2054d",
+    "storage_bucket": "video-app-2054d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136041141484:android:8219128fa7f03b801081c9",
+        "android_client_info": {
+          "package_name": "com.example.newvideoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136041141484-b5pnk2516j4atgtmpm8l5npmunp670jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlvV6b_aNeJJ4K4Bbbh5U76V7kkkJvIC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136041141484-b5pnk2516j4atgtmpm8l5npmunp670jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136041141484:android:dca9670c139dea141081c9",
+        "android_client_info": {
+          "package_name": "com.medhavi.newvideoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136041141484-pphtff6sfcq9ka5cs80alh49dl1s52np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medhavi.newvideoapp",
+            "certificate_hash": "6addcee25a28373966a61319c0d7517fe68186ac"
+          }
+        },
+        {
+          "client_id": "136041141484-b5pnk2516j4atgtmpm8l5npmunp670jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlvV6b_aNeJJ4K4Bbbh5U76V7kkkJvIC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136041141484-b5pnk2516j4atgtmpm8l5npmunp670jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
